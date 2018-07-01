@@ -1,5 +1,5 @@
 Name = "preprod"
-qaEmailId ="hemanthkb418@gmail.com"
+EmailId ="hemanthkb418@gmail.com"
 repositoryName = "hemanthkb"
 waitingTime = 24
 pipeline{
